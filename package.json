@@ -1,14 +1,14 @@
 {
-  "name": "@uniswap/v2-sdk",
+  "name": "@hitesh.sharma_/v2-sdk",
   "license": "MIT",
-  "version": "3.2.0",
-  "description": "🛠 An SDK for building applications on top of Uniswap V2",
+  "version": "3.2.0-cdk-0",
+  "description": "🛠 An SDK for building applications.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-v2-sdk.git",
+  "repository": "https://github.com/hitesh-zeeve/uniswap-v2-sdk.git",
   "keywords": [
     "uniswap",
     "ethereum"
@@ -24,7 +24,7 @@
   "dependencies": {
     "@ethersproject/address": "^5.0.0",
     "@ethersproject/solidity": "^5.0.0",
-    "@uniswap/sdk-core": "^4.0.2",
+    "@hitesh.sharma_/sdk-core": "4.0.6-cdk-0",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },
